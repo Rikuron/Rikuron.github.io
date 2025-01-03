@@ -1258,4 +1258,24 @@ video {
   .left-0 {
     left: 0px;
   }
+
+  .w-\[340px\] {
+    width: 340px;
+  }
+
+  .w-\[601px\] {
+    width: 601px;
+  }
+
+  .w-\[350px\] {
+    width: 350px;
+  }
+
+  .w-\[400px\] {
+    width: 400px;
+  }
+
+  .w-\[320px\] {
+    width: 320px;
+  }
 }
